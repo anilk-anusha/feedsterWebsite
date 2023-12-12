@@ -15,7 +15,7 @@ This project is a part of the LEARN JQUERY course from Codecademy.
 
 ## General Info
 
- The main purpose of this project is to undertand jQuery methods and add dynamic behavior to the feedster website
+ The main purpose of this project is to understand jQuery methods and add dynamic behavior to the feedster website.
 
 ## To-do List
 
@@ -39,7 +39,7 @@ This project is a part of the LEARN JQUERY course from Codecademy.
 
 ## Setup
 
-Setup locally as part of a coding excercise 
+Setup locally as part of a coding exercise. 
 
 ## Status
 
