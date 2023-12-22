@@ -19,8 +19,8 @@ This project is a part of the LEARN JQUERY course from Codecademy.
 
 ## To-do List
 
-- [ ] Add Hover Functionality to the Navigation Menu
-- [ ] Add Hover Functionality to the Navigation Menu
+- [x] Add Hover Functionality to the Navigation Menu
+- [x] Add Hover Functionality to the Navigation Menu
 
 ## Screenshots
 
